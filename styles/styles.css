@@ -4,15 +4,75 @@
 
 }
 
+.nav-item
+{
+    padding-right: 10%;
+    font-size: 1.25rem;
+}
+
 .logo-img
 {
     height:60px;
     width: 190px;
 }
 
+.brainImg
+{
+    height: 110%;
+    width: 110%;
+}
+
 h1
 {
     font-family: 'Open Sans', sans-serif;
-    margin-top:4rem;
+    font-size: 4rem;
+    margin-top:2rem;
+    line-height: 1.5;
+}
+
+h3{
+
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+    padding: 100px 0 0 100px;
+}
+
+.container-fluid{
+    margin-top: 3%;
+    padding: 3% 10%;
+}
+
+.btn
+{
+    margin-top: 3%;
+}
+#win-button
+{
+    margin-left: 7%;
+}
+
+#features
+{
+    padding: 7% 10% ; 
+}
+
+.fas
+{
+    color: #1948CE;
+    padding-bottom: 1rem; 
+}
+.feature-box
+{
     text-align: center;
+    
+}
+
+.fas:hover{
+    color:#19CE4A;
 }
