@@ -1,0 +1,18 @@
+.title
+{
+    background-color: #8d99ae;
+
+}
+
+.logo-img
+{
+    height:60px;
+    width: 190px;
+}
+
+h1
+{
+    font-family: 'Open Sans', sans-serif;
+    margin-top:4rem;
+    text-align: center;
+}
