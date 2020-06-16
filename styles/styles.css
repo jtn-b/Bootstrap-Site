@@ -1,33 +1,47 @@
-.title
+body
+{
+    font-family: 'Montserrat';
+}
+
+#title
 {
     background-color: #8d99ae;
 
+} 
+
+
+.navbar
+{
+    padding-bottom: 70px;
+}
+.top-cont{
+    padding: 1% 7%;
 }
 
 .nav-item
 {
-    padding-right: 10%;
-    font-size: 1.25rem;
+    padding: 0 20px 0 20px;
+    font-size: 2rem;
 }
 
-.logo-img
+.nav-link
 {
-    height:60px;
-    width: 190px;
+    color : #030052;
 }
-
-.brainImg
-{
-    height: 110%;
-    width: 110%;
-}
-
 h1
 {
     font-family: 'Open Sans', sans-serif;
     font-size: 4rem;
     margin-top:2rem;
     line-height: 1.5;
+}
+
+
+.brainImg
+{
+    padding-right: 50px;
+    height: 104%;
+    width: 100%;
 }
 
 h3{
@@ -43,15 +57,15 @@ p{
     padding: 100px 0 0 100px;
 }
 
-.container-fluid{
-    margin-top: 3%;
-    padding: 3% 10%;
-}
-
 .btn
 {
     margin-top: 3%;
 }
+
+
+
+/*Features section styling*/
+
 #win-button
 {
     margin-left: 7%;
