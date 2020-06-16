@@ -15,13 +15,16 @@ body
     padding-bottom: 70px;
 }
 .top-cont{
-    padding: 1% 7%;
+    padding-left: 3%;
+    padding-right:3%;
+    padding-bottom:4.3%;
 }
+
 
 .nav-item
 {
     padding: 0 20px 0 20px;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .nav-link
@@ -31,7 +34,7 @@ body
 h1
 {
     font-family: 'Open Sans', sans-serif;
-    font-size: 4rem;
+    font-size: 5rem;
     margin-top:2rem;
     line-height: 1.5;
 }
@@ -39,9 +42,11 @@ h1
 
 .brainImg
 {
+    position: relative;
+    top: -50px;
     padding-right: 50px;
-    height: 104%;
-    width: 100%;
+    height: 122%;
+    width: 110%;
 }
 
 h3{
@@ -73,7 +78,7 @@ p{
 
 #features
 {
-    padding: 7% 10% ; 
+    padding: 9% 10% ; 
 }
 
 .fas
